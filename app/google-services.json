@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "865489936573",
+    "project_id": "grocery-app-77e0e",
+    "storage_bucket": "grocery-app-77e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865489936573:android:2ddf69a24df34f5e9cd7d4",
+        "android_client_info": {
+          "package_name": "com.teqhub.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865489936573-hfbsbqo7rppafsirfo0tb2oscktbrcnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teqhub.ecommerce_app",
+            "certificate_hash": "cfdd566864eea14e79c55047be7cde2c4bc399f5"
+          }
+        },
+        {
+          "client_id": "865489936573-n4mvgjm8iev0mv7pokpb823j5ghpfh8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMfYts8MdnlqMpk9NzQeJ2diD5_MOQhm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865489936573-n4mvgjm8iev0mv7pokpb823j5ghpfh8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865489936573:android:a74ace41521c63c39cd7d4",
+        "android_client_info": {
+          "package_name": "com.teqhub.grotialadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865489936573-n4mvgjm8iev0mv7pokpb823j5ghpfh8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMfYts8MdnlqMpk9NzQeJ2diD5_MOQhm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865489936573-n4mvgjm8iev0mv7pokpb823j5ghpfh8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865489936573:android:98e17e0f17b0b8f79cd7d4",
+        "android_client_info": {
+          "package_name": "com.teqhub.wmsgrotial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865489936573-n4mvgjm8iev0mv7pokpb823j5ghpfh8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMfYts8MdnlqMpk9NzQeJ2diD5_MOQhm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865489936573-n4mvgjm8iev0mv7pokpb823j5ghpfh8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
